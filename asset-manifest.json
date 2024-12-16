@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NOGNOG/static/css/main.49ee920c.css",
+    "main.js": "/NOGNOG/static/js/main.2ccae582.js",
+    "static/js/453.09072877.chunk.js": "/NOGNOG/static/js/453.09072877.chunk.js",
+    "static/media/NogLogo.png": "/NOGNOG/static/media/NogLogo.8d1d70a61ff7bbdc2152.png",
+    "static/media/market.webp": "/NOGNOG/static/media/market.e5f7c38e3c08399f3ad1.webp",
+    "static/media/aboutus.png": "/NOGNOG/static/media/aboutus.2700f2c92dff88de1685.png",
+    "static/media/members.png": "/NOGNOG/static/media/members.6722e9f17d180d8fcec5.png",
+    "static/media/berhouse.png": "/NOGNOG/static/media/berhouse.3db72019e7f803f7968a.png",
+    "static/media/home1.webp": "/NOGNOG/static/media/home1.b3bb1654c69f5fe7ba6c.webp",
+    "static/media/nogwall.png": "/NOGNOG/static/media/nogwall.e190c0e7d75cfdc24fda.png",
+    "static/media/darvNjunice.jpg": "/NOGNOG/static/media/darvNjunice.03bc7ff056b29b27e005.jpg",
+    "static/media/avatar.jpg": "/NOGNOG/static/media/avatar.2a850745d96d9af6504c.jpg",
+    "index.html": "/NOGNOG/index.html",
+    "main.49ee920c.css.map": "/NOGNOG/static/css/main.49ee920c.css.map",
+    "main.2ccae582.js.map": "/NOGNOG/static/js/main.2ccae582.js.map",
+    "453.09072877.chunk.js.map": "/NOGNOG/static/js/453.09072877.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ee920c.css",
+    "static/js/main.2ccae582.js"
+  ]
+}
